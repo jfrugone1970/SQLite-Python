@@ -1,7 +1,20 @@
 # SQLite-Python
+
+<p align="center">
+  <img src = "python.png" />
+</p>
+
 Descripción del manejo de base de datos en SQLite
 PySQLITE
 The PySQLite provides a standardized Python DBI API 2.0 compliant interface to the SQLite database. If your application needs to support not only the SQLite database but also other databases such as MySQL, PostgreSQL, and Oracle, the PySQLite is a good choice.
+
+<p align="center">
+  <img src = "SQLite.png" />
+</p>
+
+For more information follow the WEB Site:
+
+https://www.sqlitetutorial.net/sqlite-python/
 
 PySQLite is a part of the Python Standard library since Python version 2.5
 
