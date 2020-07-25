@@ -888,3 +888,6 @@ while seguir:
     if opcion == 4:
          seguir = False
 
+<p align="center">
+  <img src = "Sqlitesocios.png" />
+</p>
